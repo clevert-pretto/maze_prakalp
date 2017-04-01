@@ -1,4 +1,4 @@
-update=Sat Apr  1 21:25:08 2017
+update=Sat Apr  1 22:57:06 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,5 @@ LibName29=valves
 LibName30=/home/ravi-chilwant/Documents/kicad_libraries/Quectel_sch
 LibName31=/home/ravi-chilwant/Documents/kicad_libraries/Microchip_MCU_sch
 LibName32=/home/ravi-chilwant/Downloads/KiCad-Libraries-master/ACRONET
+LibName33=/home/ravi-chilwant/Documents/kicad_libraries/Microchip_other_sch
+LibName34=/home/ravi-chilwant/Documents/kicad_libraries/My_library
