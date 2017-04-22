@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# IPEX_CON-RESCUE-maza-gsm
+#
+DEF IPEX_CON-RESCUE-maza-gsm F 0 40 Y Y 1 F N
+F0 "F" -150 -150 60 H V C CNN
+F1 "IPEX_CON-RESCUE-maza-gsm" 200 -50 60 V V C CNN
+F2 "" -300 0 60 H I C CNN
+F3 "" -300 0 60 H I C CNN
+DRAW
+C 0 0 71 0 1 0 N
+S -100 100 150 -100 0 1 0 N
+X FEED 1 -300 0 200 R 50 50 1 1 I
+X G 2 50 300 200 D 50 50 1 1 I
+X G 3 50 -300 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
