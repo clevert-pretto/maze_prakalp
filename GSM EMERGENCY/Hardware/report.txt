@@ -1,0 +1,494 @@
+Info: Reading netlist file "/home/ravi-chilwant/Documents/Projects/GSM EMERGENCY/Hardware/maza-gsm.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'U4'.
+
+Info: Checking netlist component footprint "AE1:/58E98331:kicad_libraries:GSM_ANTENNA_Yageo_ANT2112A010B0918A".
+
+Info: Checking netlist component footprint "BT1:/58F5CEF0:Connectors_Hirose:Hirose_DF13-02P-1.25DSA_02x1.25mm_Straight".
+
+Info: Checking netlist component footprint "C1:/58E0BAA4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C2:/58E0BAAB:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C3:/58E0BAB2:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C4:/58E0B4D7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C5:/58E0B5A1:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C6:/58E0B661:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C7:/58E0AC2C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C8:/58E0AC33:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C9:/58E0AC3A:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C10:/58E0D836:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C11:/58E0D83D:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C12:/58E0D844:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C13:/58DFDD86:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C14:/58E1C3BA:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C15:/58E0BC6F:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C16:/58E0BC76:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C17:/58E0BC7D:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C18:/58E0C3B0:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C19:/58E0C3B7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C20:/58E0C3BE:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C21:/58E0AC41:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C22:/58E0AC48:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C23:/58E0AC4F:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C24:/58E0D84B:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C25:/58E0D852:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C26:/58E0D859:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C27:/58DFDEFE:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C28:/58E1B125:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C29:/58E1B241:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C30:/58E1B2FE:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C31:/58DFEFB6:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C32:/58DFEFE5:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C33:/58FA9F3D:Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand".
+
+Info: Checking netlist component footprint "C34:/58E2120C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C35:/58EC0D02:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C36:/58EC2A2D:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C37:/58EC0D09:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C38:/58EC0D10:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C39:/58E35502:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C40:/58E35509:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C41:/58E35510:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C42:/58E40EC4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C43:/58E35517:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C44:/58E3551E:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C45:/58E35525:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C46:/58E449BE:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C47:/58E448C5:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C48:/58E014A1:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C49:/58E9576C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C50:/58E9DBE8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C51:/58EA0300:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C52:/58E44175:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C53:/58E43A32:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C54:/58E4429C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C55:/58EA521A:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C56:/58E95979:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C57:/58E9DBEF:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C58:/58EA0307:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C59:/58EA51F9:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C60:/58EA5200:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C61:/58E01258:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C62:/58EA5207:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C63:/58E0134F:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C64:/58DFF860:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C65:/58DFF933:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C66:/58EA5228:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C67:/58EC37D3:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C68:/58EBA485:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C69:/58F48646:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C70:/58EBA5E2:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C71:/58EBA729:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C72:/58EBA874:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C73:/58E9D14E:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C74:/58FC80DC:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C75:/58F2966A:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C76:/58F41C0A:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C77:/58F52A07:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C78:/58F4A5C8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C79:/58F74725:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C80:/58F5B587:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C81:/58F9DE44:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C82:/58F9E013:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C83:/58EE9C23:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C84:/58EED143:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C85:/58EECDD7:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C86:/58F58331:Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Hand".
+
+Info: Checking netlist component footprint "C87:/58EF1D7C:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C88:/58F0D520:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "C89:/58F0C4A8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C90:/58F0C303:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C91:/58F0CA59:Capacitors_SMD:CP_Elec_3x5.3".
+
+Info: Checking netlist component footprint "D1:/58FF535A:kicad_libraries:CM1224-4SO-SOT23".
+
+Info: Checking netlist component footprint "D2:/58E10F49:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D3:/58E111F2:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D4:/58E0AC6A:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D5:/58E0AC71:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D6:/58E0D871:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D7:/58E0D878:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D8:/58E2CF53:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D9:/58F8E6E5:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D10:/58E66A0B:LEDs:LED_0603".
+
+Info: Checking netlist component footprint "D11:/58E44796:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D12:/590063F7:kicad_libraries:CM1224-4SO-SOT23".
+
+Info: Checking netlist component footprint "D13:/58E4438B:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D14:/58F99031:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D15:/58F91612:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D16:/58F9920E:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D17:/58F99A90:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D18:/58F99C27:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D19:/58EEBF87:kicad_libraries:SChottky-diode-SS14FL-Fairchild".
+
+Info: Checking netlist component footprint "D20:/58EF206E:LEDs:LED_0603".
+
+Info: Checking netlist component footprint "D21:/58F99E09:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D22:/58F9A60A:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "D23:/58F9A882:LEDs:LED_1206".
+
+Info: Checking netlist component footprint "F1:/58F671EF:kicad_libraries:IPEX_CON_MHF".
+
+Info: Checking netlist component footprint "F2:/58F673B8:kicad_libraries:IPEX_CON_MHF".
+
+Info: Checking netlist component footprint "J1:/58F89A79:kicad_libraries:MICRO-SIM-78646-3001-MOLEX".
+
+Info: Checking netlist component footprint "J2:/58E551B0:Pin_Headers:Pin_Header_Angled_1x04_Pitch2.54mm".
+
+Info: Checking netlist component footprint "J3:/58E5F901:Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm".
+
+Info: Checking netlist component footprint "J4:/58EA51A6:kicad_libraries:MICRO-SIM-78646-3001-MOLEX".
+
+Info: Checking netlist component footprint "J5:/58F259AA:Connectors:USB_Micro-B_10103594-0001LF".
+
+Info: Checking netlist component footprint "J6:/58F42D6A:Connectors:bornier2".
+
+Info: Checking netlist component footprint "J7:/58F00EBE:Socket_Strips:Socket_Strip_Straight_1x02_Pitch2.54mm".
+
+Info: Checking netlist component footprint "J8:/58F015D3:Socket_Strips:Socket_Strip_Straight_1x03_Pitch2.54mm".
+
+Info: Checking netlist component footprint "J9:/58F08708:Connectors_Molex:Molex_Panelmate-53780-3070_30x1.25mm_Angled".
+
+Info: Checking netlist component footprint "L1:/58F3F859:Inductors_SMD:L_0805_HandSoldering".
+
+Info: Checking netlist component footprint "L2:/58EEC82F:Inductors_SMD:L_0805_HandSoldering".
+
+Info: Checking netlist component footprint "LS1:/58E0B68B:Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "LS2:/58E0D898:Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "MK1:/58E12A1F:Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "Q1:/58FDE395:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q2:/58FE4669:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q3:/58E67495:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q4:/58FE1912:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q5:/58F99040:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q6:/58F91622:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q7:/58F9921D:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q8:/58F99A9F:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q9:/58F99C36:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q10:/58FEA581:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q11:/58F99E18:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q12:/58F9A619:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "Q13:/58F9A891:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Info: Checking netlist component footprint "R1:/58E378CF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R2:/58E377E8:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R3:/58E2CAB7:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R4:/58DFE53B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R5:/58DFE602:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R6:/58E1060C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R7:/58E106CF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R8:/58DFE3EC:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R9:/58E2CCA6:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R10:/58E2CD91:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R11:/58E3CBA7:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R12:/58E3CBA0:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R13:/58DFEF15:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R14:/58DFEF54:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R15:/58DFEF7F:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R16:/58E0DE3E:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R17:/58E0DF91:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R18:/58E0E050:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R19:/58E669EF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R20:/58E39A8B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R21:/58E39A84:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R22:/58E4061F:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R23:/58E669F6:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R24:/58E669FD:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R25:/58E04752:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R26:/58E047B1:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R27:/58E01068:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R28:/58E9475C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R29:/58E9DBE1:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R30:/58EA02F9:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R31:/58E064D7:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R32:/58E065A5:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R33:/58E074EE:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R34:/58E075A5:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R35:/58E0A8FD:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R36:/58E01170:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R37:/58E011F5:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R38:/58EA51AD:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R39:/58EA51B4:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R40:/58EA51BB:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R41:/58E02E2F:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R42:/58E02F46:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R43:/58F4B1BF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R44:/58F444BF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R45:/58E9BD3E:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R46:/58F37C1C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R47:/58F4B374:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R48:/58F7E5CF:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R49:/58F3DB20:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R50:/58F4BCBC:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R51:/58F4C178:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R52:/58F4E3D6:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R53:/58F57CDE:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R54:/58F9901C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R55:/58F57E9D:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R56:/58F99023:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R57:/58F9902A:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R58:/58F915FD:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R59:/58F91604:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R60:/58F9160B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R61:/58F991F9:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R62:/58F99200:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R63:/58F99207:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R64:/58EEDAAE:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R65:/58F99A7B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R66:/58F99A82:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R67:/58F99A89:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R68:/58EDA514:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R69:/58F99C12:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R70:/58F99C19:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R71:/58EDA522:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R72:/58F99C20:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R73:/58F99DF4:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R74:/58F99DFB:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R75:/58EF1EF5:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R76:/58F99E02:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R77:/58F9A5F5:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R78:/58F9A5FC:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R79:/58F37AAD:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R80:/58F9A603:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R81:/58F0D6B1:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R82:/58F9A86D:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R83:/58F9A874:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R84:/58F9A87B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "SW1:/58F4B1D3:kicad_libraries:Push_Btn_DPDT_ESB3313_Panasonic".
+
+Info: Checking netlist component footprint "SW2:/58F47F9D:kicad_libraries:Push_Btn_DPDT_ESB3313_Panasonic".
+
+Info: Checking netlist component footprint "SW3:/58F4B388:kicad_libraries:Push_Btn_DPDT_ESB3313_Panasonic".
+
+Info: Checking netlist component footprint "SW4:/58F4BCD0:kicad_libraries:Push_Btn_DPDT_ESB3313_Panasonic".
+
+Info: Checking netlist component footprint "U1:/58DFE28F:TO_SOT_Packages_SMD:TO-263-5Lead".
+
+Info: Checking netlist component footprint "U2:/58DFDCB3:kicad_libraries:MC60-Quectel".
+
+Info: Checking netlist component footprint "U3:/58E0070F:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Info: Checking netlist component footprint "U4:/58FBBC76:".
+
+Changing component "U4:/58E499D7" value from "Audio_Jack3.3mm" to "Audio_Jack3.5mm".
+
+Info: Changing component path "U4:/58E499D7" to "/58FBBC76".
+
+Info: Checking netlist component footprint "U5:/58F27663:Housings_DFN_QFN:QFN-28-1EP_4x4mm_Pitch0.4mm".
+
+Info: Checking netlist component footprint "U6:/58F9CE53:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "U7:/58FCA2A0:kicad_libraries:TQFP_64-10mmX10mm".
+
+Info: Checking netlist component footprint "U8:/58EE55B4:kicad_libraries:SO-8".
+
+Info: Checking netlist component footprint "X1:/58FC035C:kicad_libraries:OSC_DS1033".
+
